@@ -5,6 +5,8 @@
  *  Keypad support added by BLebson
  *  Added more features to integrate better with Smart Alarm and the Xfinity CentraLite Key Pads , Chris Savoie
  *  
+ *  Last Updated : 10/28/2017
+ *  SmartApp version: 0.4.2*
  */
  
 def version() {	return "v0.4.2.20171130" }
